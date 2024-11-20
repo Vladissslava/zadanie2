@@ -1,0 +1,262 @@
+﻿body {
+    background-color: #110014;
+}
+.block1 {
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+
+}
+a {
+  
+    text-decoration: none; 
+}
+.me {
+    width: 1500px;
+    height: 750px;
+}
+.headerr {
+    position: absolute;
+    list-style-type: none;
+    
+}
+header {
+    margin: 0 30px;
+    font-family: Unbounded, light, Sans-Serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 250;
+}
+.me {
+    margin-top: -30px;
+}
+.container {
+    margin-left: 400px;
+   }
+p {
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    background: linear-gradient(180deg, #e0e0e0, #8F00FF);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.opisanie {
+    position: absolute;
+    margin-top: -330px;
+    color: white;
+    margin-left: 200px;
+    font-size: 30px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+}
+.name {
+    transition: transform 0.3s, background 0.3s;
+}
+.name:hover {
+    transform: scale(1.05);
+    background: #e0e0e0;
+}
+.card {
+    font-size: 55px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    border: 5px solid white;
+    background-color: white !important;
+    margin: 20px auto;
+    color: #110014;
+    text-align: center;
+    padding: 50px;
+    margin-left: 340px;
+    border-radius: 45px;
+    background: transparent;
+    margin-top: -405px;
+}
+.block2 {
+   
+    margin: 20px;
+    position: relative;
+}
+.vlada {
+text-align:center;
+margin-top: 330px;
+}
+
+.data {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+    color: white;
+    margin-right: -20px;
+}
+.zodiak {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+    color: white;
+    margin-left:1050px;
+}
+.gorod {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+    color: white;
+    position: relative;
+    top: -185px;
+    right:-100px;
+}
+.profesiya {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+    color: white;
+    position: relative;
+    bottom: -185px;
+    right: -800px;
+}
+.blog {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+    color: white;
+    position: relative;
+    top: 300px;
+    right: -390px;
+}
+.block3 {
+    
+    padding: 10px;
+
+  
+    margin: 20px;
+    position: relative;
+}
+.hobby {
+    position: absolute;
+    font-size: 55px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    color: white;
+    margin-bottom: 20px;
+    background: transparent;
+    bottom: 350px;
+}
+.carda1 {
+    background-color: white;
+    width: 207px;
+    border-radius: 20px;
+    padding: 20px;
+    bottom: 100px;
+    z-index: 20;
+    margin: 20px;
+}
+.block2 {
+    position: static;
+}
+
+.card-title {
+    margin-top: 20px;
+    font-size: 18;
+    font-weight: 500;
+    font-family: Unbounded, light, Sans-Serif;
+}
+.sub {
+    font-size: 13px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.card-img {
+    border-radius: 12px;
+    height: 210px;
+    width: 210px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: -150px;
+    
+}
+.carda2 {
+    background-color: white;
+    width: 207px;
+    border-radius: 20px;
+    padding: 20px;
+    bottom: 100px;
+    z-index: 20;
+    margin: 20px;
+}
+.carda3 {
+    background-color: white;
+    width: 207px;
+    border-radius: 20px;
+    padding: 20px;
+    bottom: 100px;
+    z-index: 20;
+    margin: 20px;
+}
+.block4 {
+    padding: 10px;
+    top: 200px;
+    left: -100px;
+    margin: 20px;
+    position: relative;
+   
+}
+.portfolio {
+    text-align: right;
+   
+    font-size: 55px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    color: white;
+    margin-bottom: 20px;
+    background: transparent;
+    bottom: 350px;
+}
+.imagePortfolio {
+    flex: 1;
+    margin-right: 20px;
+    width: 650px;
+    z-index: 2;
+}
+.text-portfolio {
+    flex: 2;
+    text-align: right;
+    font-size: 25px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 100;
+    color: white;
+    z-index: 2;
+   
+
+}
+.PNG {
+    display: flex;
+    align-items: center;
+   margin-top: -420px;
+}
+.elipse {
+    
+    z-index: 1;
+    position:absolute;
+}
+.contakt {
+    font-size: 20px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 350;
+    color: #110014;
+    border: 5px solid white;
+    background-color: white !important;
+    margin: 20px auto;
+    position: absolute;
+    padding: 50px;
+    margin-left: 340px;
+    border-radius: 45px;
+    background: transparent;
+    margin-top: -405px;
+    right: 30px;
+}
